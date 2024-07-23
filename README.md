@@ -3,7 +3,7 @@
 ![Web Developer](https://img.shields.io/badge/Web_Developer-React,_Vue.js,_Node.js,_Django,_Ruby_on_Rails-blue)
 
 ## 📫 How to reach me:
-- [Email](mailto:uwamudenyse@gmail.com)
+- [Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 - [LinkedIn](https://www.linkedin.com/in/uwamwezi-denyse/)
 
 
